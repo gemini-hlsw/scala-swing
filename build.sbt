@@ -2,7 +2,7 @@ import com.typesafe.tools.mima.plugin.{MimaPlugin, MimaKeys}
 
 scalaModuleSettings
 
-organization := "org.scala-lang.modules"
+organization := "org.scala-lang"
 
 name                       := "scala-swing"
 
