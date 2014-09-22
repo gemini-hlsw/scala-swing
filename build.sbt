@@ -10,7 +10,7 @@ version := "2.0.0-SNAPSHOT"
 
 scalaVersion := "2.10.4"
 
-scalacOptions ++= Seq("-deprecation", "-feature", "-target:jvm-1.6")
+scalacOptions ++= Seq("-deprecation", "-feature", "-target:jvm-1.7")
 
 snapshotScalaBinaryVersion := "2.10"
 
